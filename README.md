@@ -4,7 +4,8 @@
 The reverse dictionary is a model that takes the description of the semantics of the target word as input, and outputs the target word and other words that match the description.
 
 ## How To Use Our System
-Run diff.py in terminal or python to enter the definition of words. It will give the possible words you are trying to find in rank. You can keep enter word definitions until you stop the program.
+Before use, you need to download the files in github and also the model from [model download](https://drive.google.com/drive/folders/1s_gusbGJkCQRw12LW5wlfQHdzWEzKLl9?usp=sharing) .
+To use our system, run diff.py in terminal or python to enter the definition of words. It will give the possible words you are trying to find in rank. You can keep enter word definitions until you stop the program.
 
 ### Core Model
 
